@@ -8,7 +8,7 @@ let hiddenMenu = document.querySelector("ul").cloneNode(true);
 menu.appendChild(hiddenMenu);
 
 let iconMenuClose = document.createElement("img");
-iconMenuClose.src = "/assets/images/icon-menu-close.svg";
+iconMenuClose.src = "assets/images/icon-menu-close.svg";
 iconMenuClose.id = "menu__icon-close";
 
 menu.prepend(iconMenuClose);
