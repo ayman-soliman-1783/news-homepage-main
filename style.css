@@ -21,9 +21,9 @@ body {
   color: hsl(36, 100%, 99%);
 }
 
-/* header */
+/* nav */
 
-header {
+nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
