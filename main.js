@@ -29,3 +29,10 @@ iconMenuClose.addEventListener("click", () => {
   shadow.style.opacity = 0;
     shadow.style.zIndex = -1;
 });
+
+shadow.addEventListener("click", () => {
+  menu.classList.remove("visible");
+  menu.classList.add("hidden");
+  shadow.style.opacity = 0;
+  shadow.style.zIndex = -1;
+});
