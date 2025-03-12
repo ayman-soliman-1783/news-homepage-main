@@ -66,7 +66,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I learned how to build a responsive hidden burger menu using HTML, CSS, and JavaScript. This involved using hidden elements, CSS positioning, CSS transitions for smooth animations, and JavaScript event listeners to toggle the menu's visibility by adjusting menu's position on the workflow.
+I learned how to build a responsive hidden burger menu using HTML, CSS, and JavaScript. This involved using hidden elements, CSS positioning, CSS transitions for smooth animations, and JavaScript event listeners to toggle the menu's visibility by adjusting the menu's position on the workflow.
 
 ```html
 <img id="menu__icon" src="/assets/images/icon-menu.svg" alt="icon-menu" />
