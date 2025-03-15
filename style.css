@@ -71,7 +71,7 @@ ul li:hover {
 }
 
 .hero .hero__image {
-  background-image: url("assets/images/image-web-3-desktop.jpg");
+  background-image: url('assets/images/image-web-3-desktop.jpg');
   background-size: cover;
   grid-column: 1 / 3;
   grid-row-start: 1;
@@ -309,8 +309,8 @@ aside .new + .new::before {
   }
 
   .hero .hero__image {
-    aspect-ratio: 4 / 3;
-    background-position: center;
+    background-image: url('assets/images/image-web-3-mobile.jpg');
+    aspect-ratio: 686 / 600;
   }
 }
 
